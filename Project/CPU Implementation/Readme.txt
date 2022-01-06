@@ -1,0 +1,1 @@
+To run this project you must need logisim,version-2.7.1 or higher. 
